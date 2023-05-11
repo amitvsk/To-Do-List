@@ -14,14 +14,14 @@ A regular expression can be used on both a group trigger and a floating trigger.
 
 to handele validation;
 
-step1:- Download the zip file then extract the file.
+**step1**:- Download the zip file then extract the file.
 
-step2:- one in code editor (vs code) open in terminal 
+**step2**:- one in code editor (vs code) open in terminal 
 
-step4:- use cmd install node module;- 
+**step4**:- use cmd install node module;- 
 **npm i --f **
 
-step5:- **npm start**
+**step5**:- **npm start**
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
