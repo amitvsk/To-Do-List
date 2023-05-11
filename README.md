@@ -6,9 +6,10 @@ In this project you able to do crud operstion  save important task and menstion 
 
 step1:- Download the zip file then extract the file.
 step2:- one in code editor (vs code) open in terminal 
-step4:- use cmd install node module;- npm i --f 
+step4:- use cmd install node module;- 
+**npm i --f **
 
-step5:- npm start
+step5:- **npm start**
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
