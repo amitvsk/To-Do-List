@@ -21,6 +21,8 @@ to handele validation;
 **step4**:- use cmd install node module;- 
 **npm i --f **
 
+**npm install -f**
+
 **step5**:- **npm start**
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
